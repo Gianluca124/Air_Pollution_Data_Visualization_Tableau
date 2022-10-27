@@ -1,19 +1,21 @@
-# Qualità dell'aria nell'agglomerato di Milano: Data Analysis & Visualization
+# Ai quality in Milan: Data Analysis & Visualization
 ## Data Visualization project 2021/2022
 
 - Tableau Public: https://tinyurl.com/3rmhakxn
 
-La qualità dell'aria è migliorata, negli ultimi 15 anni, a Milano e dintorni? La concentrazione di inquinanti è maggiore in inverno o in estate? e perché? Quali sono i principali inquinanti e quali i fattori meteorologici e antropici che ne influenzano l’andamento stagionale delle concentrazioni?
+Has air quality improved in the last 15 years in and around Milan? Is the concentration of pollutants higher in winter or summer? And why? What are the main pollutants and what are the meteorological and anthropogenic factors that influence the seasonal trend of concentrations?
 
-Abbiamo cercato di rispondere a questi, e altri, quesiti analizzando i dati di ARPA Lombardia. I risultati della nostra analisi sono stati poi esposti in una infografica interattiva realizzata usando la piattaforma Tableau.
+We tried to answer these and other questions by analyzing the data of ARPA Lombardia. The results of our analysis were then displayed in an interactive infographic created using the Tableau platform.
 
-### Anteprima della prima pagina dell'infografica
+### Infographic preview
 
 ![](https://github.com/giocoal/Air_Pollution_Data_Visualization_Tableau/raw/main/Report/Immagini%20per%20report/Dashboard_HOME.png)
 
-### Anteprime delle schede di approfondimento sui singoli inquinanti 
+### Preview of other infographic tabs 
 
 ![](https://github.com/giocoal/Air_Pollution_Data_Visualization_Tableau/raw/main/Report/Immagini%20per%20report/Dashboard_NO2.png)
 ![](https://github.com/giocoal/Air_Pollution_Data_Visualization_Tableau/raw/main/Report/Immagini%20per%20report/Dashboard_OZONO.png)
 ![](https://github.com/giocoal/Air_Pollution_Data_Visualization_Tableau/raw/main/Report/Immagini%20per%20report/Dashboard_PM.png)
 ![](https://github.com/giocoal/Air_Pollution_Data_Visualization_Tableau/raw/main/Report/Immagini%20per%20report/Dashboard_SO2.png)
+
+#### English version incoming!
