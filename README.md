@@ -1,4 +1,4 @@
-# Ai quality in Milan: Data Analysis & Visualization
+# Air quality in Milan: Data Analysis & Visualization
 ## Data Visualization project 2021/2022
 
 - Tableau Public: https://tinyurl.com/3rmhakxn
